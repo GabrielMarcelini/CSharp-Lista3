@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\bin\Debug\net6.0\ControleFazendaGado.exe
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\bin\Debug\net6.0\ControleFazendaGado.deps.json
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\bin\Debug\net6.0\ControleFazendaGado.runtimeconfig.json
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\bin\Debug\net6.0\ControleFazendaGado.dll
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\bin\Debug\net6.0\ControleFazendaGado.pdb
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\obj\Debug\net6.0\ControleFazendaGado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\obj\Debug\net6.0\ControleFazendaGado.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\obj\Debug\net6.0\ControleFazendaGado.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\obj\Debug\net6.0\ControleFazendaGado.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\obj\Debug\net6.0\ControleFazendaGado.dll
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\obj\Debug\net6.0\refint\ControleFazendaGado.dll
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\obj\Debug\net6.0\ControleFazendaGado.pdb
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\obj\Debug\net6.0\ControleFazendaGado.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\ControleFazendaGado\ControleFazendaGado\obj\Debug\net6.0\ref\ControleFazendaGado.dll

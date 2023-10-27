@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\bin\Debug\net6.0\Coleções de Jogos.exe
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\bin\Debug\net6.0\Coleções de Jogos.deps.json
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\bin\Debug\net6.0\Coleções de Jogos.runtimeconfig.json
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\bin\Debug\net6.0\Coleções de Jogos.dll
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\bin\Debug\net6.0\Coleções de Jogos.pdb
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\obj\Debug\net6.0\Coleções de Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\obj\Debug\net6.0\Coleções de Jogos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\obj\Debug\net6.0\Coleções de Jogos.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\obj\Debug\net6.0\Coleções de Jogos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\obj\Debug\net6.0\Coleções de Jogos.dll
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\obj\Debug\net6.0\refint\Coleções de Jogos.dll
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\obj\Debug\net6.0\Coleções de Jogos.pdb
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\obj\Debug\net6.0\Coleções de Jogos.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\Coleções de Jogos\Coleções de Jogos\obj\Debug\net6.0\ref\Coleções de Jogos.dll

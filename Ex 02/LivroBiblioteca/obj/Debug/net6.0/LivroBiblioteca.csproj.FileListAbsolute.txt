@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\bin\Debug\net6.0\LivroBiblioteca.exe
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\bin\Debug\net6.0\LivroBiblioteca.deps.json
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\bin\Debug\net6.0\LivroBiblioteca.runtimeconfig.json
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\bin\Debug\net6.0\LivroBiblioteca.dll
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\bin\Debug\net6.0\LivroBiblioteca.pdb
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\obj\Debug\net6.0\LivroBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\obj\Debug\net6.0\LivroBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\obj\Debug\net6.0\LivroBiblioteca.AssemblyInfo.cs
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\obj\Debug\net6.0\LivroBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\obj\Debug\net6.0\LivroBiblioteca.dll
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\obj\Debug\net6.0\refint\LivroBiblioteca.dll
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\obj\Debug\net6.0\LivroBiblioteca.pdb
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\obj\Debug\net6.0\LivroBiblioteca.genruntimeconfig.cache
+C:\Users\Gabriel\source\repos\LivroBiblioteca\LivroBiblioteca\obj\Debug\net6.0\ref\LivroBiblioteca.dll
